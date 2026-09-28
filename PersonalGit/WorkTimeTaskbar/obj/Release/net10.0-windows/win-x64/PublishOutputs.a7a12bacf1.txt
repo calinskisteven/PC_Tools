@@ -1,0 +1,2 @@
+C:\dev\PC_Tools\PersonalGit\WorkTimeTaskbar\bin\Release\net10.0-windows\win-x64\publish\WorkTimeTaskbar.pdb
+C:\dev\PC_Tools\PersonalGit\WorkTimeTaskbar\bin\Release\net10.0-windows\win-x64\publish\WorkTimeTaskbar.exe
